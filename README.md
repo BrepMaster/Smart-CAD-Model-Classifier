@@ -2,6 +2,9 @@
 
 一个功能强大的 CAD 模型文件智能分类工具，基于 PythonOCC 和 PyQt5 开发，支持多种分类策略和文件格式。
 
+通过网盘分享的文件：Smart CAD Model Classifier.exe
+链接: https://pan.baidu.com/s/1j3ADSm9mvg0lH2NOBrhTrw?pwd=fwk5 提取码: fwk5 
+
 ## 功能特点
 
 - **多种分类策略**：
